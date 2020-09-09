@@ -2,8 +2,7 @@
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: Junior 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Warsaw, 𝒂𝒕 jacekmaciejak.pl. 
-<a href="http://jacekmaciejak.pl" target="blank" class="navbar__title">jacekmaciejak.pl</a>
+:computer: Junior 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 Developer, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 Warsaw, 𝒂𝒕 <a href="http://jacekmaciejak.pl" target="_blank">jacekmaciejak.pl</a>
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 and React. 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
