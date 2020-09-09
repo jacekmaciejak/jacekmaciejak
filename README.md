@@ -4,7 +4,7 @@
 
 :vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript and React. 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -22,7 +22,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
