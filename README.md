@@ -1,6 +1,6 @@
 # Hello! I'm Jacek Maciejak
 
-:computer: Junior Front-end Developer, I live in Warsaw, my personal website <a href="http://jacekmaciejak.pl" target="_blank">jacekmaciejak.pl</a> <br>
+:computer: Junior Front-end Developer, my personal website <a href="http://jacekmaciejak.pl" target="_blank">jacekmaciejak.pl</a> <br>
 
 :vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript and React. 
 
@@ -46,7 +46,6 @@
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-
     </tr>
   </body>
 </table>
