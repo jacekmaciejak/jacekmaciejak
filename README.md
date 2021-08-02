@@ -5,7 +5,6 @@
 :vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript and React. 
 
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
 <table>
   <body>
     <tr valign="top">
