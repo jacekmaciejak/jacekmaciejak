@@ -7,7 +7,7 @@
 # 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
-  <tbody>
+  <body>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
@@ -49,7 +49,7 @@
       </td>
 
     </tr>
-  </tbody>
+  </body>
 </table>
 
 
