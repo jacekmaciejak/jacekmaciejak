@@ -39,9 +39,13 @@
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-            <td width="25%" align="center">
+        <td width="25%" align="center">
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+        <td width="25%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
     </tr>
   </tbody>
