@@ -4,7 +4,7 @@
 
 :vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript and React. 
 
-# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+# 𝗠𝘆 technology stuck:
 <table>
   <body>
     <tr valign="top">
@@ -48,7 +48,7 @@
       </td>
               <td width="25%" align="center">
         <span>Wordpress</span><br><br><br>
-        <img height="80px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
+        <img height="64px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
       </td>
     </tr>
   </body>
