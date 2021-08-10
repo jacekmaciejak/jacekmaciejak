@@ -47,8 +47,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
               <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
+        <span>Wordpress</span><br><br><br>
+        <img height="80px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
       </td>
     </tr>
   </body>
