@@ -2,7 +2,7 @@
 
 :computer: Junior Front-end Developer, my personal website <a href="http://jacekmaciejak.pl" target="_blank">jacekmaciejak.pl</a> <br>
 
-:vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript and React. 
+:vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript, React and also PHP. 
 
 # 𝗠𝘆 technology stuck:
 <table>
