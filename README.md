@@ -46,9 +46,9 @@
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-              <td width="60%" align="center">
+      <td width="60%" align="center">
         <span>Wordpress</span><br><br><br>
-        <img height="64px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
+        <img height="80px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
       </td>
     </tr>
   </body>
