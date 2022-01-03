@@ -31,7 +31,6 @@
        <td width="25%" align="center">
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.cdnlogo.com/logos/p/79/php.svg">
-         <a href="https://cdnlogo.com/logo/php_3819.html"><img src="https://cdn.cdnlogo.com/logos/p/79/php.svg"></a>
       </td>
     </tr>
     <tr valign="top">
