@@ -30,7 +30,7 @@
       </td>
       <td align="center">
         <span>Wordpress</span><br><br><br>
-        <img height="80px" src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
     </tr>
     <tr valign="top">
