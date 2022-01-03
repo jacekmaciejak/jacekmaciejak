@@ -25,15 +25,15 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
        <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-       <td width="20%" align="center">
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
     </tr>
     <tr valign="top">
+       <td width="20%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
       <td width="25%" align="center">
         <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
