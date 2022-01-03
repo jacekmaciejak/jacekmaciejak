@@ -28,12 +28,12 @@
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-      <td align="center">
+    </tr>
+    <tr valign="top">
+        <td align="center">
         <span>Wordpress</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress.svg">
       </td>
-    </tr>
-    <tr valign="top">
        <td width="20%" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
@@ -50,7 +50,8 @@
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-        <td width="20%" align="center">
+    </tr>
+       <td width="20%" align="center">
         <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
