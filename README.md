@@ -2,7 +2,7 @@
 
 :computer: Junior Front-end Developer, my personal website <a href="http://jacekmaciejak.pl" target="_blank">jacekmaciejak.pl</a> <br>
 
-:vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript, React and also PHP. 
+:vulcan_salute: I put mostly of my focus on web development with HTML, CSS, JavaScript, React, PHP and also WordPress. 
 
 # 𝗠𝘆 technology stuck:
 <table>
@@ -24,7 +24,7 @@
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-              <td width="25%" align="center">
+       <td width="25%" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
